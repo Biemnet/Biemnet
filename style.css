@@ -81,14 +81,14 @@ main {
   background-color: var(--SoftMagenta);
 }
 
-.social_media_links {
+.social_media_icons {
   display: flex;
   align-self: center;
   justify-content: space-between;
   width: 7rem;
 }
 
-.social_media_links i {
+.social_media_icons i {
   border: 1px white;
   color: white;
   border-radius: 50%;
@@ -96,7 +96,7 @@ main {
   position: relative;
 }
 
-.social_media_links i:hover {
+.social_media_icons i:hover {
   color: var(--SoftMagenta);
 }
 
@@ -133,7 +133,7 @@ main {
   .content a {
     padding: 1rem 4rem;
   }
-  .social_media_links {
+  .social_media_icons {
     align-self: flex-end;
   }
 }
