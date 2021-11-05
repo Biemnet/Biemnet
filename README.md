@@ -1,6 +1,6 @@
-### Hi there 👋
+#### Well hello, so nice of you to stop by Biemnet there: 👋
 
-BIEMNET here:
+
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/81128505/140575187-a2ab4465-9187-473e-987c-7ee5aeedfb80.png)
 ![css3](https://user-images.githubusercontent.com/81128505/140572753-54ff41cb-5b32-4933-83c7-39f81d518eab.png)
